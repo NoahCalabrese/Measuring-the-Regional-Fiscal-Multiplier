@@ -7,6 +7,7 @@ Most of the project will be done in R markdown since I can access the API's with
 
 Hypothesis Testing:
 H0: State-level sectoral spending is not a primary driver of GDP growth (perhaps national trends or private sector investment matter far more).
+
 H1: At least one of those sectors has a significant impact. 
 
 As well as doing an F-test for joint significance (which is the style of hypothesis testing I have chosen for this project), I will also find the specific p values for each Beta value (each specific sector is a beta value) IF the null happens to get rejected.
