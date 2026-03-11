@@ -6,6 +6,7 @@ For Data Aquisition I will be using the FRED API from the Federal Bank of St. Lo
 Most of the project will be done in R markdown since I can access the API's with ease and reading them in is a lot easier than importing everything to python code. Though somce analysis may be done in python as well as R. 
 
 Hypothesis Testing:
+
 H0: State-level sectoral spending is not a primary driver of GDP growth (perhaps national trends or private sector investment matter far more).
 
 H1: At least one of those sectors has a significant impact. 
